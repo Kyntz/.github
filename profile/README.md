@@ -1,5 +1,9 @@
 ## Mindframe
 
+**Mindframe** ( /ˈmaɪndˌfreɪm/ ) *sustantivo*
+
+**Origen:** Inglés (combinación de *mind* 'mente' y *frame* 'marco').
+
 <!--
 
 **Here are some ideas to get you started:**
