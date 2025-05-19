@@ -1,6 +1,6 @@
 ## Coderfyx
 
-**Coderfyx** ( /ˈkoʊdərfɪks/ ) *sustantivo*
+( /ˈkoʊdərfɪks/ ) *sustantivo*
 
 **Origen:** Neologismo inglés (combinación de coder 'codificador, programador' y -fyx, variante estilizada de fix 'arreglar, solucionar').
 
