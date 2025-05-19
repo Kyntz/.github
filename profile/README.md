@@ -1,8 +1,9 @@
-## Mindframe
+## Coderfyx
 
-**Mindframe** ( /ˈmaɪndˌfreɪm/ ) *sustantivo*
+**Coderfyx** ( /ˈkoʊdərfɪks/ ) *sustantivo*
 
-**Origen:** Inglés (combinación de *mind* 'mente' y *frame* 'marco').
+**Origen:** Neologismo inglés (combinación de coder 'codificador, programador' y -fyx, variante estilizada de fix 'arreglar, solucionar').
+
 
 <!--
 
