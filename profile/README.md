@@ -2,7 +2,7 @@
 
 ( /ˈkɪnts/ ) *sustantivo*
 
-**Origen:** Neologismo (palabra acuñada, sin raíz etimológica preexistente). Derivado fonéticamente para evocar conceptos de Kinetic (movimiento, energía), Synthesis (síntesis, unión) y Zenith (cima, punto culminante), con una ortografía moderna y compacta.
+**Origen:** Neologismo. Derivado fonéticamente para evocar conceptos de Kinetic (movimiento, energía), Synthesis (síntesis, unión) y Zenith (cima, punto culminante).
 
 
 <!--
