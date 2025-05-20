@@ -1,4 +1,4 @@
-## Coderfyx
+## Kyntz
 
 ( /ˈkoʊdərfɪks/ ) *sustantivo*
 
