@@ -1,8 +1,8 @@
 ## Kyntz
 
-( /ˈkoʊdərfɪks/ ) *sustantivo*
+( /ˈkɪnts/ ) *sustantivo*
 
-**Origen:** Neologismo inglés (combinación de coder 'codificador, programador' y -fyx, variante estilizada de fix 'arreglar, solucionar').
+**Origen:** Neologismo (palabra acuñada, sin raíz etimológica preexistente). Derivado fonéticamente para evocar conceptos de Kinetic (movimiento, energía), Synthesis (síntesis, unión) y Zenith (cima, punto culminante), con una ortografía moderna y compacta.
 
 
 <!--
